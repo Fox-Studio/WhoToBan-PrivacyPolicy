@@ -186,7 +186,7 @@ For privacy-related questions, concerns, or requests:
 
 - **Email:** hrishitkhare4@gmail.com
 - **Discord:** hrishitkhare
-- **Support Server:** 1414143531697836104 (Support server ID)
+- **Support Server:** https://discord.gg/wr547KQFEX
 
 ## 13. Legal Basis for Processing
 
